@@ -12,13 +12,12 @@ This is a simple Udemy Clone website built using only HTML and basic CSS. The pr
 
  Responsive design using basic CSS media queries
 
- Built without any frameworks or libraries (no Bootstrap, no JavaScript)
 
 ## Technologies Used
 
-HTML5 – Semantic structure and page layout
+HTML – Semantic structure and page layout
 
-CSS3 – Custom styles, layout, and responsiveness
+CSS – Custom styles, layout, and responsiveness
 
 ## How to Run
 
