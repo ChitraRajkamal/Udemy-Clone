@@ -21,7 +21,7 @@ CSS – Custom styles, layout, and responsiveness
 
 ## How to Run
 
-You can access my udemy clone website by visiting [link] feel free to explore the content and get in touch!
+You can access my udemy clone website by visiting [https://chitrarajkamal.github.io/Udemy-Clone/] feel free to explore the content and get in touch!
 
 ## Contributing
 
